@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Diferencial QX \u00b7 Portfolio",
+    "slug": "diferencialqx-portfolio",
+    "version": "1.0.0",
+    "scheme": "dqxportfolio",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "output": "single"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+coverage/
+.env*
+*.log
+*.zip
+*.csv
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*serviceAccount*
+*service-account*
+GoogleService-Info.plist
+google-services.json
+.firebaserc
